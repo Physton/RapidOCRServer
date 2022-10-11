@@ -5,8 +5,11 @@ RapidOCR HTTP 服务。win32程序，易语言编写。
 
 >如不信任，请立即停止使用+删除+拉黑。
 
-### 下载
+### 软件/Demo下载
 [https://github.com/Physton/RapidOCRServer/releases/tag/1.0.0](https://github.com/Physton/RapidOCRServer/releases/tag/1.0.0)
+
+### Demo使用说明
+nodejs: [https://github.com/Physton/RapidOCRServer/tree/main/Demo/nodejs](https://github.com/Physton/RapidOCRServer/tree/main/Demo/nodejs)
 
 ### 示例
 ![](https://raw.githubusercontent.com/Physton/RapidOCRServer/main/screenshot/1.png)

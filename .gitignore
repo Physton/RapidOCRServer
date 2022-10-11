@@ -3,3 +3,5 @@
 /releases.bat
 /Config.json
 /RapidOCRServer.bak
+node_modules
+package-lock.json
